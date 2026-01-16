@@ -1,0 +1,33 @@
+Explain evolution of python
+
+explain various features of python
+
+difference between java and python
+
+explain the steps involve in settion up python environment
+
+Lists various rulls used to define a variable 
+
+with the help of exaimple explain different types of operators in python
+
+
+
+Check wether the person is elegible for votiong accept the age from the user
+
+Display "attendence is mandatory for lectures" if the entered number is divisible by 5 other wise display "Byy Seeeeeeeeeeeeeeee YOuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu"
+
+Display last digit of a number 
+
+check wether the last digit of number entered by the users divisible by 5
+
+check whether the year by the user is a leap year or not
+
+
+
+implement python program to input a number form  the user (1, 2, 3, 4, 5,6, 7) if the number is 
+1 - display sunday
+2 - display monday
+3 - tuesday
+4- wenesday 
+5 - ..
+if the user inputs any other number then display in valid number

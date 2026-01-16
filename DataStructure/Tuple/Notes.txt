@@ -1,0 +1,11 @@
+Tuple is a collection similar to a list that is you can store any type of data.
+The basics difference between tuple and a lsit is that we can not modify a tuple once it is created.
+
+To create a tuple we use Rounded Bracket ().
+
+Tuples are--
+1. Tuples are orderded that is they mantain the order of the elements
+2. Innutable that is they cannot been changed after creation
+3. Allows duplicates that is they can store duplicate values 
+
+To access any elements from the tuple we use a number called as index starting with zero 

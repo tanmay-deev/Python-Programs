@@ -1,0 +1,27 @@
+Following are the data structure or data type in python
+
+1 - List ===>
+In python list allows us to store multiple elements in a single variable, List are similar to Arrays (Dynamic arrays) That can store Different types of data.
+
+To Create a list we use Square Bracket [ ]
+
+1 -- List are first ordered Tht is they mantain the order of the elements 
+2-- Mutable : Elements can be changed after creation 
+3-- Allows Duplicates : That is they can contain duplicate values 
+
+for Ex: create a list with 5 elements out of which two are strings 
+
+Questions ------>
+
+1. write python program to create a list of 20 elements out of which five elements are string five elements are floating points numbers and remaning are integers 
+Display the list element by element 
+
+2. access 5th element and replace it with a given character 
+3. access elements form 7 to 10 and display it 
+4. add 5 integers towards the end of the list (Original list)
+5. access 7th element and delete it 
+6. delete the entire list
+
+2. Ouestions ---------------------->
+
+Write a menu driven python program to Implement all built in function of a list 

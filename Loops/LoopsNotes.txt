@@ -1,0 +1,4 @@
+for Systax
+
+for var in sequence:
+    block of for
