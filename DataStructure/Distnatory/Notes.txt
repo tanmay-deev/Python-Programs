@@ -1,0 +1,9 @@
+It is a collection of elements Similar to list and tuple however unlike list and tuple each element in distonary is a key value pare Enclosed in { }.
+
+For ex -- { 1 : "one"}
+
+distonary keys must be immutable such as integer, string etc. We cannot use changable or mutable objects such as list as keys.
+
+We can also create a distonary by using built in function dict() 
+
+A dictonary an ordered collection that is to access the element from the dictonary we can place the keys inside the Square bracket ex -- dict = {1 : "one",}
