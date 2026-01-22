@@ -12,3 +12,20 @@ String Operations --
 1. Compare two strings we use (==) double equal to operator two compare two strings if the two strings are equal the operator returns true otherwise it returns false 
 
 2. Join two or more strings - we can join (concanitate) two or more strings by using (+) plus operator
+
+To find the length of the string we can use built in method len()
+
+String membership Test -- we can test if a substring exist within a string or not using keyword (in) (not in) 
+
+Methods of Strings ----
+
+Method -- 
+upper() --      Description - It converts the string to upper case
+lower() --      Description - Converts the string to lower case 
+replace() --    Description - Replaces substring inside 
+find() --       Description - Returns the index of first occurance of the substring
+split() --      Description - It splits the string from the left 
+startswith() -- Description - it checks if string start with the specified string
+index() --      Description - It returns index of substring
+isnumeric() --  Description - It checks numeric characteres
+
