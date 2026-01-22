@@ -1,0 +1,14 @@
+A string is a        to represet a string we use '' or "".
+
+WE can access characteres in a string by using first indexing (Positive and negative Indexing) Similar to a list.
+
+Slicing -- That is access a range of characteres by using Colon : as a slicing operator.
+
+If we try to access an index out of the range or use numbers other than an integer then we will get errors.
+
+In python strings are immutable that is the characters of a string cannot be changed.
+
+String Operations --
+1. Compare two strings we use (==) double equal to operator two compare two strings if the two strings are equal the operator returns true otherwise it returns false 
+
+2. Join two or more strings - we can join (concanitate) two or more strings by using (+) plus operator
