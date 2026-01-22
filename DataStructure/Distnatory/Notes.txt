@@ -7,3 +7,18 @@ distonary keys must be immutable such as integer, string etc. We cannot use chan
 We can also create a distonary by using built in function dict() 
 
 A dictonary an ordered collection that is to access the element from the dictonary we can place the keys inside the Square bracket ex -- dict = {1 : "one",}
+
+Question --------->
+
+Create a dictonary of BCA sem 4 subjects the key should be a string and the values should be the names of the subjects. 
+access the second key and replace it value with mini project.
+after this display the entire dictonary .
+Pop third key form the dictonary and display it's value 
+
+Ouestion 2 ------->
+
+Create two dictonary.
+The first dictonary consist of the subject names and the second dictonary consist of the subject teachers name.
+
+Combine both the dictonary and store it in the third dictonary and display it
+
