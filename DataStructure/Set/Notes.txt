@@ -1,0 +1,11 @@
+A set is a collection of unique data that is the elements within a set cannot be duplicateded 
+
+In python to create a set we use {} curly brackets 
+
+A set can store different types of elemtnts like integer, float, tuple, string etc.But it cannot store Mutable elements like list, dictonary etc. 
+
+The set dose't have a particular order 
+
+different type of built in method can be used to perform set oprations like union, intersection, simitric difference, ect. 
+
+we can also check wether tow sets are equal or not using (==) operator 
