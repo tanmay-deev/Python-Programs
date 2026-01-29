@@ -35,3 +35,8 @@ print(message)
 
 message = """ Basics is very important
 It forms the foundation for placement """
+
+str1 = ":"
+str2 = "Hello"
+str3 = str1.join(str2)
+print(str3) #Output H:e:l:l:o
