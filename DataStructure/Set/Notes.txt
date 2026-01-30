@@ -9,3 +9,11 @@ The set dose't have a particular order
 different type of built in method can be used to perform set oprations like union, intersection, simitric difference, ect. 
 
 we can also check wether tow sets are equal or not using (==) operator 
+
+Ouestions ------------->
+
+1. write menu driven porgram to implement all built in function of a list 
+2. write menu driven porgram to implement all built in function of tuple.
+3. write menu driven porgram to implement all built in function of dictonary.
+4. write menu driven porgram to implement all built in function of a string.
+5. write menu driven porgram to implement all built in function of a sets.

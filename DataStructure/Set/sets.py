@@ -12,3 +12,6 @@ print(set_ds)
 set_ds1 = {10,20,30,40,50}
 set_ds2 = {10,20,100,200,300}
 
+print(set_ds1.union(set_ds2)) # {1,2,3,4,5,10,20,30,40,50,100,200,300}
+print(set_ds1.intersection(set_ds2)) # {10,20}
+print(set_ds1.difference(set_ds2)) # {30,40,50}
