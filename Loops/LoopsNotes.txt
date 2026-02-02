@@ -2,3 +2,39 @@ for Systax
 
 for var in sequence:
     block of for
+
+
+while loop ----------->
+
+we use while loop to repate the block of code until a certain condition is true 
+for ex : 
+no = 5
+while no > 1:
+    print("Hello")
+    no -= -1
+
+Break and continue statements : ---------->
+
+They are used to modify the flow of loops 
+The break statements terminates the loops imidiately it is usaually inside desion making statements 
+for ex : 
+for i in range(5):
+    if i == 3:
+        Break
+    print(i)
+
+with while --->
+i = 0
+n = 5
+while i <= n:
+    if i == 3:
+        Break
+    print(i)
+    i = i + 1
+
+Continue statement:
+
+The continue statements skips the current iteration of the loop and the control flow of the program goes to the next iteration 
+for ex:
+
+
