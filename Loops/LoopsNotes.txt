@@ -36,5 +36,36 @@ Continue statement:
 
 The continue statements skips the current iteration of the loop and the control flow of the program goes to the next iteration 
 for ex:
+for i in range(5)
+    if i == 3:
+        continue 
+    print(i)
 
+with while -------->
+i = 1
+n = 5
+while i <= n:
+    if i == 3:
+        continue
+    print(i)
+    i = i + 1
+
+
+Quesiton
+
+write python program to display the number form 1 to 10 except for number 6
+
+write python program to display number betweeen 1 to 10 
+after printing number 5 the loop must terminates
+
+Pass statement ------------------------>
+
+In python programming the pass statement is a null statement which can be used as a place holder for writting future code it can be used in 
+If statement, Function , class , etc.
+
+for ex:
+n = 10
+i = 0
+if i < 10:
+    pass
 

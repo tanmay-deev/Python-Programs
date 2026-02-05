@@ -1,0 +1,11 @@
+Difference between parameters and argunments 
+
+Paramaters ----
+1. parameters are vairables listed inside the parathisis in the function defination they act like a place holder for the data. The function can accept when we call them 
+
+Argunments ---
+argunments are the actuall values that been pass to the function when we call it 
+argunments replace the parameters when the function executes 
+
+Return Statements in the function ----------->
+
