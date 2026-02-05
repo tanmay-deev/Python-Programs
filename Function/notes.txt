@@ -9,3 +9,18 @@ argunments replace the parameters when the function executes
 
 Return Statements in the function ----------->
 
+A Return statement denotes that the function has ended any code after return is not executeded 
+
+Function Argunments with default values ------->
+
+In python we can provide default values to the function argunments for this we use equal to symbol
+
+Keyword argunments --------------->
+
+In keyword argunments the argunments are assigned based on the name of the argunments in this the position of the argunments dose't matter 
+
+Function with arbitrary argunments ------------->
+
+sum times we do not know in advance the number of argunments that will be passed into a funciton to handel this kind of a situation we use arbitrary argunments. This argunments allow us to pass different of values during a function call 
+
+we use (*) asterisk symbol before the parameter name to denote this argunment 
