@@ -1,0 +1,8 @@
+Recursion is the process of defining something in terms of itself.
+In python a function can call other functions also a function can call itself this types of funcitons are called as recursive function 
+
+Advantage of Recursion --------------->
+
+1. Using recursive functions we can split complex task into simpler sub problem
+2. The code looks clean
+3. Sequence generation is easier with recursion than using complex nested loops 
