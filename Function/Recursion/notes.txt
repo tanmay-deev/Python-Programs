@@ -6,3 +6,9 @@ Advantage of Recursion --------------->
 1. Using recursive functions we can split complex task into simpler sub problem
 2. The code looks clean
 3. Sequence generation is easier with recursion than using complex nested loops 
+
+Quesitons ------------>
+
+Write python program to implement recursion display sum of n numbers 
+
+Display fibonaci serease using recursion
