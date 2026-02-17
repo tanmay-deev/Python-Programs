@@ -1,0 +1,15 @@
+As our programs grow bigger it may contain many lines of code Insted of putting everything in a single file we can use modules to seperate codes in seperate files as per there functionality. So this make our code organized and easier to maintain 
+
+Module is a file that containes code to perform a specific task 
+
+It may contain variables functions classes etc.
+In python we use import keyword to include a module in a file 
+for ex -
+import maths
+
+There are two types of modules 
+ 1. standard or library modules
+ 2. Custom or user defined modules
+
+Standard or library module ----------------------->
+

@@ -1,3 +1,6 @@
+import platform
+
+
 def display(age):
     return(age)
 
@@ -31,5 +34,13 @@ def add(*numbers):
 
 # function call with 3 argunments
 add(11, 22, 3)
+
+
+var = platform.system()
+print(var)
+
+var1 = dir(platform)
+print(var1)
+print(time.asctime())
 
 
