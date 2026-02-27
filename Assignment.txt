@@ -1,0 +1,21 @@
+1st assignment -------------
+
+Implementation of control flow statements and functions.
+
+1) write python program to accept a month number from the user and display it in words
+2) write a user defined function to dispaly a factorial of a number 
+3) write a user defined function to dispaly armstrong of a number.
+4) write a user defined function to dispaly reverse of a number.
+5) write a user defined function to check weteher a number is prime or not.
+
+Note :- For all the above questions accept the input from the user and no datastructures must be used
+
+2nd assignment ------------------
+
+Implementation of DataStructures 
+
+1) write a menu driven program to implement all built in functions of list.
+2) write a menu driven program to implement all built in function of tuple.
+3) write a menu driven program to implement all built in function of disctionary.
+4) write a menu driven program to implement all built in function of set.
+5) write a menu driven program to implement all built in function of string.
