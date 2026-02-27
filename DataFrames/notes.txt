@@ -1,0 +1,23 @@
+A dataframe is like a table where the data is organized in rows and coloums it is a two dimentional data structure like two dimentional array.
+
+Each row represents a record with the index value on the left hand side the index values are automatically assigned starting form 0.
+
+Each coloums contains data of the same type.
+
+To create a dataframe we can use list, disctionary or from a file or also create an empty dataframe 
+
+Note that we can also create data frame by using numpy array 
+
+<--------------------Creating dataframe using list ----------------------------------->
+
+we use a two dimentional list that is nested list to convert the two dimentional list into dataframe we use DataFrame() Function.
+
+Each nested list acts like a row of data in the dataframe 
+
+The coloums aregument of the DataFrame function provides name to each coloums 
+for EX --->
+
+
+Quesiton ----------------.
+
+1. write python program to inplement data frame using list the coloums names are role number students name, class, phone no. The dataframe should consist of 5 rows 
