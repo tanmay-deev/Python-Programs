@@ -1,0 +1,8 @@
+Quesitons ------
+
+1. Explain the evolution of JavaScript
+2. Explain different feautres of ES6
+3. Explain Arrow function 
+4. Explain DOM (Document object model)
+5. Explain Event Handling 
+6. Explain Browser Object Mode 
