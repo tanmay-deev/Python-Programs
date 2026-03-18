@@ -4,3 +4,40 @@ For ex :-
 If we try to open a file that dose not exist or if we try to divide a number by 0 or if we try to import a module that dose not exist
 
 Whenever this types of runntime errors occure python creats an exception object
+
+There are two catagaries of exceptions
+
+1. Built in exceptions
+2. User Defined or custom exceptions
+
+1. Built in Exceptions --------------------------
+
+Exceptions name --------------------
+1. AttributeError - It is raised when attribure assignment or reference fails
+
+2. EOFError - It is raised when the input function reconosed end of file condition 
+
+3. FloatingPointError - It is raised when a floating point operation failes 
+
+4. ImportError - It is raised when the imported module is not found 
+
+5. IndexError - It is raised when the index of a sequence is out of range 
+
+6. KeyError - It is raised when a key is not found in a disctionary 
+
+7. MemoryError - It is raised when an operation runs out of memory 
+
+8. NameError - It is raised when a variable is not found in local or global scope 
+
+9. OverflowError - It is raised when the result of an arithimatic operation is too large to be represented
+
+10. RuntimeError - It is raised when an error dose not fall under any other catagarie
+
+11. SyntaxError - It is raised when Syntax error occures 
+
+12. IndentationError - It is raised when there is incorrect indentaiton 
+
+13. ValueError - It is raised when a function gets an argunment of correct type but improper Value
+
+14. ZeroDivisionError - It is raised when the second operand of division or modulo operaiton is zero 
+
