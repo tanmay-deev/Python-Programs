@@ -1,0 +1,6 @@
+Errors that occurs at runntime are called exceptions or logical errors 
+
+For ex :- 
+If we try to open a file that dose not exist or if we try to divide a number by 0 or if we try to import a module that dose not exist
+
+Whenever this types of runntime errors occure python creats an exception object
