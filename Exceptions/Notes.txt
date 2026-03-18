@@ -41,3 +41,22 @@ Exceptions name --------------------
 
 14. ZeroDivisionError - It is raised when the second operand of division or modulo operaiton is zero 
 
+
+Exception Handling in Python ----------------
+
+In python try..except block is used to handle exceptions 
+
+1. try() block --
+
+It lets you test a block of code for errors we place all code inside the try block which may raise run time errors. When try block encountres any run time error the control is then passed to the relevent except block.
+
+2. except() block --
+
+except block lets you handle Runtime Error It is used to handle and mantain the normal execution of the program. Default except block can handle any type of runtime errors however we can also handle a specific type of run time error by mentionaing its name 
+
+
+Quesiton -------
+
+write python program to implement Exception handling for the following 
+
+a. Input a number from the user and check wether it is even or odd if it is odd then in the except block display the number is odd 
