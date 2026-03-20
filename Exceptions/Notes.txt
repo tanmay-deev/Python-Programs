@@ -69,3 +69,12 @@ Assertations are Statenments that assert or state a fact in your program they ar
 It is also a debuging tool as if halts the program as soon as an error occurses and displays it 
 
 Python has built in assert statetnments to use assertation condition in the program this condition or expression is supposed to be always true if the condition is false assert stops the program and gives (AsseertionError)
+
+Quesiton --------------
+
+write python program to implement try, except, else and assert check wether the entered number is positive or not and display accordingly 
+
+
+Raise Keyword ------------
+
+we use raise keyword followed by an instance of the exception class which needs to be raised we can either use built in exception classes or use custom exception classes 
