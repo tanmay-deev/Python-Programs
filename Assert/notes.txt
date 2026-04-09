@@ -1,0 +1,11 @@
+Assertions are statements that state or assert a fact confidentily in your program they are boolean expressions that check if the conditions return true or not if it is true the program dose nothing and moves to the next line of code however if it is false the program stops and throws an error it is also consider as  a debuging tool as it halts the program as soon as an error occurs and displays it .
+
+we use built in assert statements to use assertion condition in the program 
+
+assert<condition>
+
+Assert statement has a condition or expression which is supposed to be always true and if the condition is false assert halts the program and gives an AssertionError
+
+Quesitons
+
+Implement assert to check wether a number is prime or not if the number is prime it should disply that the entered is prime otherwise it should throw an error and display that the entered number is not prime use exception handling 
